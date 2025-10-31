@@ -12,7 +12,6 @@ A C++/Qt-based GUI tool designed for educational and internal benchmarking purpo
 - 🚀 Customizable request rate and payload size
 - 📊 Real-time traffic stats and response tracking
 - 🧪 Simulates concurrent connections to test server robustness
-- 🛡️ Built-in safety checks to prevent misuse
 
 ---
 
@@ -22,5 +21,4 @@ A C++/Qt-based GUI tool designed for educational and internal benchmarking purpo
 |----------|-------------|
 | Language | C++ |
 | Framework | Qt (Widgets) |
-| Network | QNetworkAccessManager / QTcpSocket |
 | OS Support | Windows, Linux (Qt cross-platform) |
