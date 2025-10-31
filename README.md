@@ -1,4 +1,5 @@
 # 🔒 EasyWebTool (Qt GUI)
+[![# 🔒 EasyWebTool (Qt GUI)](https://i.postimg.cc/Hn6B3pMH/Screenshot-2025-10-31-155724.png)](https://postimg.cc/q6CsvHQZ)
 
 A C++/Qt-based GUI tool designed for educational and internal benchmarking purposes. This tool allows developers and site owners to simulate controlled traffic loads to evaluate the resilience and performance of their web infrastructure.
 
@@ -13,6 +14,12 @@ A C++/Qt-based GUI tool designed for educational and internal benchmarking purpo
 - 📊 Real-time traffic stats and response tracking
 - 🧪 Simulates concurrent connections to test server robustness
 
+---
+
+## 😜 Check Log After the Process Finished
+
+
+[![#Check Log After the Process Finished](https://i.postimg.cc/tCfzgvtB/Screenshot-2025-10-31-164404.png)](https://postimg.cc/fJcd2KPd)
 ---
 
 ## 🛠️ Tech Stack
